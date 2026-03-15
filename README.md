@@ -25,12 +25,12 @@ The goal of this project is to explore transaction-level data and identify usefu
 The dataset used in this project is the **Online Retail II** dataset, which contains historical transaction records for an online retail business.
 
 ### Example fields in the dataset
-- `InvoiceNo`
+- `Invoice`
 - `StockCode`
 - `Description`
 - `Quantity`
 - `InvoiceDate`
-- `UnitPrice`
+- `Unit`
 - `CustomerID`
 - `Country`
 
